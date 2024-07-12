@@ -1,0 +1,15 @@
+Drug_Information.csv 841药物与药物关联
+drug_drug.txt 所有关联关系对331308对
+
+
+Drug_Information.csv 药物与五种物质关系
+
+Drug-Drug：841         eg:DB06700,745
+Target-Drug：          eg:
+Enzyme-Drug：          eg:
+Substructure-Drug：619 eg:387,1460
+Pathway-Drug：307      eg:hsa04973,3314
+
+tensorflow             1.2.0
+tensorflow             2.2.0
+pip install tensorflow==2.3.1 -i https://pypi.douban.com/simple
